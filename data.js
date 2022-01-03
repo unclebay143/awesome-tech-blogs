@@ -2251,4 +2251,21 @@ module.exports = [
       "Web Development",
     ],
   },
+  {
+    name: "Unclebigbay",
+    description: "Ayodele Samuel Adebayo | Software Engineer",
+    url: "https://unclebigbay.com",
+    twitter: "@unclebigbay143",
+    tags: [
+      "JavaScript",
+      "Project Based",
+      "React",
+      "NodeJS",
+      "Content Creation",
+      "Backend",
+      "Frontend",
+      "Programming",
+      "Web Development",
+    ],
+  },
 ];
